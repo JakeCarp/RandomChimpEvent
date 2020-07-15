@@ -15,5 +15,5 @@ chimp.on('message', async message => {
     }
 })
 console.log("chimps in style")
-chimp.login('NzMyMzE3MjM0Nzg5MDg5NDYx.XwzIQQ.Z-X2yyoMrhZj62vztvfLox4zO4E');
+chimp.login('');
 
